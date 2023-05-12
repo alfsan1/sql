@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "476cd238a4cad1d3",
+            "id": "2dd4f9f56c97464f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Product Management Class/Data Granularity & other topics.md",
-                "mode": "source",
+                "file": "estrategia de contenido para Alfredo.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a83067031017f367",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Product Management Class/Data Granularity & other topics.md",
+                "file": "estrategia de contenido para Alfredo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Product Management Class/Data Granularity & other topics.md",
+                "file": "estrategia de contenido para Alfredo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Product Management Class/Data Granularity & other topics.md"
+                "file": "estrategia de contenido para Alfredo.md"
               }
             }
           }
@@ -146,11 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85009b5d292fb18a",
+  "active": "2dd4f9f56c97464f",
   "lastOpenFiles": [
-    "Data Product Management Class",
+    "SOY Strategy 2.md",
+    "estrategia de partnerships.md",
+    "invertir en clak.md",
+    "estrategia de contenido para Alfredo.md",
+    "Pendientes globales SOY.md",
+    "preguntas clave data cuiderma.md",
+    "Entrega de Johanna.md",
+    "proceso inicial comercial.md",
+    "SOY strategy.md",
     "Data Product Management Class/Data Granularity & other topics.md",
-    "Untitled.md",
+    "Data Product Management Class",
     "readme.md"
   ]
 }
