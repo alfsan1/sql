@@ -1,9 +1,8 @@
 
 - Acabar documento de [[SOY Strategy 2]] lo más pronto posible
-- Desarrollar con Mitzi con mayor claridad el [[proceso inicial comercial]] de SOY para que sea replicable
-- Data para cuiderma, como la estamos obteniendo, cuales son los principales indicadores.
+- Desarrollar con Mitzi con mayor claridad el [[proceso inicial comercial]] de SOY para que sea replicable. 
+- Data para cuiderma, como la estamos obteniendo, cuales son los principales indicadores,  ver como migrar GA4, porque no se pasan o ven las ventas en analytics. 
 - Hablar con ximena de SUM para [[partnership]]
-- Calulcar pagos de hoy
 - Crear documento de [[Entrega de Johanna]]
 - modifcar las direcciones y telefono y quitar el email en el sitio de cft. el tel y dirección que sean los mismos de graywolf. 1de ahí subir el sitio y también subir graywolf. 
 - Ver factura de auto bmw no ha llegado
@@ -11,10 +10,12 @@
 - Enviar anexos de utmost ahorros y completar el costo
 - Migrar Analytics normal de cuiderma a GA4, y hacer[[ preguntas clave data cuiderma]] 
 - avanzar a 30% el curso
-- crear la [[planeación financiera]] - en base a artículo de ramit sethi en INC a como visualizar realmente ser rico, el futuro 
+- crear la [[planeación financiera personal]] - en base a artículo de ramit sethi en INC a como visualizar realmente ser rico, el futuro 
 - Crear la [[estrategia de contenido para Alfredo]], Ale, Mari, SOY a partir de la matriz que había ideado
 - Crear rutina y actividades - kpis diarios
 - Crear [[estrategia de partnerships]] para diferentes segmentos posibles como fondos, empresas, etc. 
-- growthcamp, propuesta para Carolina
-- Escribir mensaje a agustín, de por que [[invertir en clak]]
-- Crear lista de preguntas para puesto de SDR para Mitzi asi como de otras vacantes. 
+- growthcamp, propuesta para Carolina - hacerlo con Crisaudy
+
+- Crear lista de preguntas para puesto de SDR para Mitzi asi como de otras vacantes. Revisar vacante asap y empezar entrevistas
+- Revisar puestos de vendedores high end, como son, etc, en linkedin, preguntar a AMario, a tiburon, Alberto, hugo, et. 
+- Libro aaron ross predictable revenue, acabar. 

@@ -1,3 +1,5 @@
+Basarnos en el [[Framework de estrategia de contenido]], o sea el guiding policy
+
 Topics
 - When is the best time to invest in UX and the expected returns. 
 - how is AI shaping up our users and their experience (UX)

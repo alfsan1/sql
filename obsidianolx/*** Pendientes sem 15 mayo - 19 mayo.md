@@ -1,0 +1,25 @@
+Pendientes de la semana pasada traídos a esta: 
+
+- Acabar documento de [[SOY Strategy 2]] lo más pronto posible
+- Desarrollar con Mitzi con mayor claridad el [[proceso inicial comercial]] de SOY para que sea replicable. 
+- Data para cuiderma, como la estamos obteniendo, cuales son los principales indicadores,  ver como migrar GA4, porque no se pasan o ven las ventas en analytics. Migrar Analytics normal de cuiderma a GA4, y hacer[[ preguntas clave data cuiderma]] 
+- avanzar a 40% el curso nanodegree data manager
+- Hablar con ximena de SUM para [[estrategia de partnerships]]
+- Ver factura de auto bmw no ha llegado
+- ver temas de tenencia y placas con bmw
+- Enviar anexos de utmost ahorros y completar el costo
+- crear la [[planeación financiera personal]] - en base a artículo de ramit sethi en INC a como visualizar realmente ser rico, el futuro 
+- Crear la [[estrategia de contenido para Alfredo]], Ale, Mari, SOY a partir de la matriz que había ideado
+- Crear rutina y actividades - [[kpis diarios]]
+- Crear [[estrategia de partnerships]] para diferentes segmentos posibles como fondos, empresas, etc. 
+- growthcamp, propuesta para Carolina - hacerlo con Crisaudy
+- Enviar documento disney de piezas a  Luc. 
+- Crear lista de preguntas para puesto de SDR para Mitzi asi como de otras vacantes. Revisar vacante asap y empezar entrevistas
+- Revisar puestos de vendedores high end, como son, etc, en linkedin, preguntar a AMario, a tiburon, Alberto, hugo, et. 
+- Libro aaron ross predictable revenue, acabar. 
+- Dejar claro objetivos de la semana por KPI
+- Enviar dinero a ahorros. 
+- Leer PRD de WFM , diferentes áreas, terminarlo esta semana, leerlo al menos 1 hora al día. 
+- Programar one on one con: Maribel, Crisaudy, Dario, Jenifer, Alejandra - horario por la tarde de preferencia. Sustituirlo por el de Mitzi. 
+- Revisar y/o crear formato de one on one para el team. 
+- Definir indicadores y mediciones para cada puesto y como se alinea con [[SOY Strategy 2]] , 
